@@ -1,5 +1,5 @@
 {
-  "name": "recipe-ai-easy-cooking-with-ingredients",
+  "name": "CookAssistant",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,6 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@expo-google-fonts/inter": "^0.2.3",
     "@react-native/gradle-plugin": "^0.78.0",
     "@react-navigation/bottom-tabs": "^6.5.8",
     "@react-navigation/native": "^6.1.7",
@@ -17,7 +18,7 @@
     "invariant": "^2.2.4",
     "lucide-react-native": "^0.477.0",
     "react": "18.2.0",
-    "react-native": "^0.78.0",
+    "react-native": "0.72.6",
     "react-native-dotenv": "^3.4.11",
     "react-native-gesture-handler": "^2.24.0",
     "react-native-reanimated": "^3.3.0",
